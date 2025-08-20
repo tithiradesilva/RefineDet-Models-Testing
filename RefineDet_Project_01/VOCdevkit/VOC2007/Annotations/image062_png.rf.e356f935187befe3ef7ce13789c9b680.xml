@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>image062_png.rf.e356f935187befe3ef7ce13789c9b680.jpg</filename>
+	<path>image062_png.rf.e356f935187befe3ef7ce13789c9b680.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Car SecurityWarning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>398</xmin>
+			<xmax>641</xmax>
+			<ymin>353</ymin>
+			<ymax>562</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

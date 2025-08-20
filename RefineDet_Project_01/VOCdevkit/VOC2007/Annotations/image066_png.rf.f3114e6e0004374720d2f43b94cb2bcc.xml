@@ -1,0 +1,42 @@
+<annotation>
+	<folder></folder>
+	<filename>image066_png.rf.f3114e6e0004374720d2f43b94cb2bcc.jpg</filename>
+	<path>image066_png.rf.f3114e6e0004374720d2f43b94cb2bcc.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Steering Wheel Locked</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>135</xmin>
+			<xmax>466</xmax>
+			<ymin>13</ymin>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Engine Issue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>324</xmax>
+			<ymin>355</ymin>
+			<ymax>581</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

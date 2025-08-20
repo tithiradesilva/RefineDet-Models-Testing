@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>image040_png.rf.98c6229f8e2df416004625a08b9c28b2.jpg</filename>
+	<path>image040_png.rf.98c6229f8e2df416004625a08b9c28b2.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Engine Issue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>417</xmin>
+			<xmax>615</xmax>
+			<ymin>228</ymin>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>
