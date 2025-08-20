@@ -1,0 +1,42 @@
+<annotation>
+	<folder></folder>
+	<filename>image009_png.rf.73e4111d0caebe3c20332402afa3365d.jpg</filename>
+	<path>image009_png.rf.73e4111d0caebe3c20332402afa3365d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>High Engine Temperature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>2</xmin>
+			<xmax>280</xmax>
+			<ymin>138</ymin>
+			<ymax>431</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Low Oil Pressure Issue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>417</xmin>
+			<xmax>641</xmax>
+			<ymin>190</ymin>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>
